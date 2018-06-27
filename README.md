@@ -15,6 +15,7 @@ PALADIN _Pathways_ has only a handful of dependencies: `requests`, `xmltodict`, 
 
 ```
 # Sample Dependency Installation
+##Does this have to be updated with plug-in package?
 pip3 install requests
 pip3 install xmltodict
 pip3 install dataset
